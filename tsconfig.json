@@ -1,0 +1,12 @@
+{
+  // extends the default Nuxt configuration
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "types": ["@pinia/nuxt"]
+  }
+}

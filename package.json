@@ -1,0 +1,52 @@
+{
+  "name": "ai-classroom",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.9.2",
+    "@google/generative-ai": "^0.21.0",
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
+    "@huggingface/inference": "^2.8.1",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@vueuse/core": "^12.0.0",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "formidable": "^3.5.2",
+    "mammoth": "^1.8.0",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.0",
+    "multer": "^1.4.5-lts.1",
+    "nuxt-server-utils": "^0.0.7",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.4",
+    "pdfjs-dist": "^4.9.155",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-chartjs": "^5.3.2",
+    "vue-cookies": "^1.8.5",
+    "vue-router": "^4.3.0",
+    "vue3-google-login": "^2.0.33"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "@pinia/nuxt": "^0.5.1",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^20.11.25",
+    "autoprefixer": "^10.4.20",
+    "nuxt": "^3.14.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.4.2",
+    "vue-tsc": "^1.8.27"
+  }
+}
