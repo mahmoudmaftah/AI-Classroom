@@ -5,6 +5,9 @@ import get_my_auth_data from "../utils/auth";
 
 export default defineEventHandler(async (event) => {
   try {
+
+    console.log(" TEST 1");
+
     // Connect to MongoDB
     const db = await connectToDatabase();
     const storiesCollection = db.collection("motivationalStories");
