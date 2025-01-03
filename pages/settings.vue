@@ -104,9 +104,9 @@
 
 <script setup lang="ts">
 const profile = ref({
-  firstName: 'Mahmoud',
-  lastName: 'Mahmoud',
-  email: 'mahmoudmaftah44@gmail.com'
+  firstName: 'user',
+  lastName: 'user',
+  email: 'user@gmail.com'
 })
 
 const initials = computed(() => {

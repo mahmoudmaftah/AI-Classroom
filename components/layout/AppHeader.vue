@@ -101,7 +101,7 @@ const toggleDarkMode = () => {
                 <span class="text-sm font-medium">MM</span>
               </div>
               <span class="hidden md:block text-sm font-medium text-gray-700 dark:text-gray-200">
-                Mahmoud Maftah
+                USer
               </span>
             </button>
 

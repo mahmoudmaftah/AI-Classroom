@@ -73,10 +73,10 @@ const menuItems = [
           </div>
           <div class="flex-1 min-w-0">
             <p class="text-sm font-medium text-gray-900 dark:text-white truncate">
-              Mahmoud Maftah
+              Ready to learn?
             </p>
             <p class="text-xs text-gray-500 dark:text-gray-400 truncate">
-              mahmoudmaftah44@gmail.com
+              Welcome to AI-Classroom
             </p>
           </div>
         </div>
