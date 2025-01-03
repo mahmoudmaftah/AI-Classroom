@@ -4,7 +4,7 @@
         id="g_id_onload"
         data-client_id="5386076183-enbj35ntaeqep1gn5dcttjbbnj129uj0.apps.googleusercontent.com"
         data-callback="onSignIn"
-        data-login_uri="http://localhost:3000/oauth/callback"
+        data-login_uri="https://animated-sunburst-795b07.netlify.app/oauth/callback"
       ></div>
       <div id="g_signin2"></div>
     </div>
